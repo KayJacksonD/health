@@ -9,4 +9,5 @@ public class test3 {
    private String password456;
    private String password789;
    private String name;
+   private String branch;
 }
